@@ -15,4 +15,10 @@ describe Solver do
       expect(@solver.factorial(-4)).to eq 'Oh, there is an error. Please use a positive number'
     end
   end
+  
+  context '#reverse' do
+    it 'should return word reversed' do
+      expect(@solver.reverser('Hello')).to eq 'olleH'
+    end
+  end
 end
