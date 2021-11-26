@@ -7,14 +7,11 @@ In this project we will implement a class with some methods, should be by doing 
 - rubocop
 
 ## Getting Started
-- Make sure you have `Ruby` installed in your system. You can install it [here](https://www.ruby-lang.org/en/documentation/installation/).
-- Clone this repository by running `git@github.com:Donard97/oop-school-library-app.git` in your command line.
-- Navigate to the repository by running `cd oop-school-library-app`.
-- Run the project by running `ruby main.rb` on the command line.
-- To run the `tests` make sure you install rspec gem by running `gem install rspec` on the command line then run `rspec spec` on the    command line to see the test passing
-
 - git clone https://github.com/OLIPLICHE/tdd-project.git
 - cd tdd-project
+
+- Make sure you have `Ruby` installed in your system. You can install it [here](https://www.ruby-lang.org/en/documentation/installation/).
+- To run the `tests` make sure you install rspec gem by running `gem install rspec` on the command line then run `rspec spec` on the command line to see the test passing
 
 ## Authors
 
